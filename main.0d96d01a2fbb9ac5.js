@@ -1169,7 +1169,7 @@
             );
           }
           handleImageError(V) {
-            V.target.src = "../distTesting/assets/images/1.png";
+            V.target.src = "/assets/images/1.png";
           }
           static #e = (this.ɵfac = function ($) {
             return new ($ || fe)(L.LFG(j.V));
